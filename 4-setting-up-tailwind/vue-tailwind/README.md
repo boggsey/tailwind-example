@@ -16,6 +16,8 @@
 
 - Ran `npm run serve`
 
-- Shit failed
+- Everything is shit
 
 - Had to run `npm uninstall tailwindcss postcss autoprefixer` and `npm install tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9` because Vue 3 doesn't have it's shit together
+
+- It worked!
